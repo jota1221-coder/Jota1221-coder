@@ -30,10 +30,18 @@ Creo que saber trabajar con herramientas de IA es una habilidad clave para esta 
 
 ---
 
+## 🌟 Featured Projects
+
+### 🏨 [Ruta Hotel — Online Booking System](https://github.com/jota1221-coder/Hotel-transitorio)
+Full-stack web app with real-time availability check, admin panel with auth, rate limiting and antispam honeypot.
+**Stack:** Next.js 14 · TypeScript · Prisma · Tailwind · Zod
+
+---
+
 ## 🚀 What I'm working on
 
 - 📊 Building a **data dashboard** with real business metrics
-- 🏨 Developing a **hotel booking web app** (Next.js + Prisma + SQLite)
+- 🏨 Improving the **Ruta Hotel** booking app (payment integration, email notifications)
 - 📚 Expanding into machine learning and data visualization
 
 ---
